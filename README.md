@@ -1,6 +1,4 @@
-# Tugas Akhir Mata Kuliah Pemrograman Framework (Kelompok 6)
-
-## Sistem Informasi Peminjaman Buku
+# Sistem Informasi Peminjaman Buku
 
 Project ini dibangun menggunakan CodeIgniter4 framework bahasa pemrograman PHP. Tampilan sistem dibangun dengan bantuan Framework Bootstrap dan Template dari [Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/).
 Sistem Informasi Peminjaman Buku digunakan oleh petugas dengan dua jenis peran yaitu admin super dan admin biasa. Sistem ini memiliki fitur sebagai berikut:
